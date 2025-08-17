@@ -35,5 +35,5 @@ Chat with Sofia, a cute, multilingual streamer girl AI, who reacts like a real f
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/sofia-ai-bestie.git
+git clone https://github.com/zerodbg/Chat_bot_Sofia.git
 cd sofia-ai-bestie
